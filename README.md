@@ -1,6 +1,6 @@
-# face-morph
+# Cloj-Morph
 
-![](data/out/out.gif)
+<img align="center" src="data/out/out.gif"/>
 
 A implementation of image morphing via affine transformations of key points in pure Clojure!
 
