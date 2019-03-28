@@ -8,7 +8,8 @@
                  [uncomplicate/neanderthal "0.21.0"]
                  [org.clojure/math.combinatorics "0.1.4"]
                  [net.mikera/core.matrix "0.62.0"]
-                 [net.mikera/imagez "0.12.0"]]
+                 [net.mikera/imagez "0.12.0"]
+                 [com.taoensso/tufte "2.0.1"]]
   :main ^:skip-aot face-morph.core
   :target-path "target/%s"
   :profiles {:uberjar {:aot :all}})

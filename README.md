@@ -1,32 +1,23 @@
 # face-morph
 
-FIXME: description
+![](data/out/out.gif)
+
+A implementation of image morphing via homography matrix transformations of key points in pure Clojure!
+
+This is my first Clojure project, and performance is still a bit slower than a OpenCV implementation, so it serves more of a toy project & example for anyone working on homography matrices in Clojure.
 
 ## Installation
 
-Download from http://example.com/FIXME.
+Download the file from the release page.
 
 ## Usage
 
-FIXME: explanation
 
-    $ java -jar face-morph-0.1.0-standalone.jar [args]
+    $ java -jar face-morph-standalone.jar [args]
 
-## Options
-
-FIXME: listing of options this app accepts.
 
 ## Examples
 
-...
-
-### Bugs
-
-...
-
-### Any Other Sections
-### That You Think
-### Might be Useful
 
 ## License
 
