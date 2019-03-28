@@ -1,6 +1,8 @@
 # Cloj-Morph
 
-<img align="center" src="data/out/out.gif"/>
+<p align="center">
+  <img align="center" src="data/out/out.gif"/>
+</p>
 
 A implementation of image morphing via affine transformations of key points in pure Clojure!
 
