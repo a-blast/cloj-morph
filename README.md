@@ -2,9 +2,9 @@
 
 ![](data/out/out.gif)
 
-A implementation of image morphing via homography matrix transformations of key points in pure Clojure!
+A implementation of image morphing via affine transformations of key points in pure Clojure!
 
-This is my first Clojure project, and performance is still a bit slower than a OpenCV implementation, so it serves more of a toy project & example for anyone working on homography matrices in Clojure.
+This is my first Clojure project, and performance is still a bit slower than a OpenCV implementation, so it serves more of a toy project & example for anyone working on affine transforms in Clojure.
 
 ## Installation
 
